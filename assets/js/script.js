@@ -243,7 +243,7 @@ document.addEventListener("DOMContentLoaded", () => {
         e.preventDefault();
 
         window.open(
-            "https://wa.me/923001234567",
+            "https://wa.me/+923048819899",
             "_blank"
         );
 
