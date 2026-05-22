@@ -126,7 +126,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         if (!statsSection) return;
 
-        const sectionTop = statsSection.offsetTop - 400;
+        const sectionTop = statsSection.offsetTop - 550;
 
         if (window.scrollY > sectionTop && !counterStarted) {
 
